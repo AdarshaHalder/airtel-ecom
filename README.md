@@ -50,7 +50,7 @@ $ cd whatsapp-chatbot
 $ npm install
 
 # Run the application in development mode
-$ yarn dev
+$ npm run dev
 
 ## Ready, scan the QR code of Whatsapp and Voilà, enjoy!
 ```
