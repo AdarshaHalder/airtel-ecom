@@ -41,7 +41,7 @@ Also, it's nice to have an editor to work with code like[VSCode](https://code.vi
 
 ```bash
 # Clone this repository
-$ git clone git@github.com:bibinprathap/whatsapp-chatbot.git
+$ git clone https://github.com/AdarshaHalder/airtel-ecom
 
 # Access the project folder in the terminal/cmd
 $ cd whatsapp-chatbot
